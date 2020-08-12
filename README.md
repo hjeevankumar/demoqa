@@ -1,4 +1,4 @@
-# demoqa
+# DemoQa Test Automation
 Repository for automating the demoqa site.
 TechStack using:
 Java,
